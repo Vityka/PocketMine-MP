@@ -539,7 +539,7 @@
             "version": "2.4.3",
             "source": {
                 "type": "git",
-                "url": "https://github.com/pmmp/Language.git",
+                "url": "https://github.com/Vityka/Language.git",
                 "reference": "4d0b081f1a79407e087968ea76aaf330db6ea2b5"
             },
             "dist": {
